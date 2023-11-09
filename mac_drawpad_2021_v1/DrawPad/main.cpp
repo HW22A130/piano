@@ -41,8 +41,8 @@ void DrawMain()
     Sleep(0.5f);
     Sleep(0.5f);
     DrawText("Hello, world!!", -12*14/2, -33, kColorYellow);
-
     DrawText("Hellooooooooooooooooo, world!!", -12*14/2, -88, kColorDarkBlue);
+    DrawCircle(0, 0, 52, kColorDarkBlue); //hw22a111
 
 }
 
