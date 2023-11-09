@@ -35,14 +35,14 @@ void DrawMain()
     DrawText("Hello, world!!", -12*14/2, -44, kColorRed);
     Sleep(0.5f);
     DrawText("Hello, world!!", -12*14/2, -66, kColorGray);
-    
-    
-    
     ///松井
     DrawCircle(50, 50, 50, kColorGreen);
     DrawText("Hello, world!!", -12*14/2, -44, kColorDarkBlue);
     Sleep(0.5f);
     Sleep(0.5f);
     DrawText("Hello, world!!", -12*14/2, -33, kColorYellow);
+
+    DrawText("Hellooooooooooooooooo, world!!", -12*14/2, -88, kColorDarkBlue);
+
 }
 
